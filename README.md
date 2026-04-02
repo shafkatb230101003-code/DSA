@@ -405,7 +405,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📧 Contact
 
-**Mahir Faysal Tusher**  
+**Md. Shafkat Hossain Mazumder**  
 - 📧 Email: shafkat.b230101003@student.cstu.ac.bd
 - 🐙 GitHub: [@Shafkat Hosaain](https://github.com/shafkatb230101003-code)
 - 📍 Location: Chandpur, Bangladesh
@@ -414,7 +414,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shafkatb230101003-code/DSA/blob/bf847a7362575b8ec883b04cfd8ba8ab268dcfef/MIT%20license) file for details.
 
 ---
 
