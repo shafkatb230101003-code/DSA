@@ -414,7 +414,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shafkatb230101003-code/DSA/blob/75937eef7838b21bd314010eafef496b2d217e0f/MIT%20license) file for details.
 
 ---
 
